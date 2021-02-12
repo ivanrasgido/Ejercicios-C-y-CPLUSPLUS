@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1586453765 source:c:\users\admin\desktop\programacion\ejercicios 29 al 37\funciones.c
+	<stdio.h>
+	"matrices.h"
+
+1586391206 source:c:\users\admin\desktop\programacion\ejercicios 29 al 37\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1586391238 c:\users\admin\desktop\programacion\ejercicios 29 al 37\matrices.h
+
+1586455034 source:c:\users\admin\desktop\programacion\tp1\ejercicios 29 al 37\funciones.c
+	<stdio.h>
+	"matrices.h"
+
+1586391238 c:\users\admin\desktop\programacion\tp1\ejercicios 29 al 37\matrices.h
+
+1586391206 source:c:\users\admin\desktop\programacion\tp1\ejercicios 29 al 37\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+

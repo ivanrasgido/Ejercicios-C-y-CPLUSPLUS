@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1592537918 source:c:\users\admin\desktop\ea proggra\ear-1entregable\ear1-proyecto32\funciones2.c
+	"funciones.h"
+
+1592537918 c:\users\admin\desktop\ea proggra\ear-1entregable\ear1-proyecto32\funciones.h
+	<stdio.h>
+
+1592537918 source:c:\users\admin\desktop\ea proggra\ear-1entregable\ear1-proyecto32\funciones3.c
+	"funciones.h"
+
+1592689389 source:c:\users\admin\desktop\ea proggra\ear-1entregable\ear1-proyecto32\main.c
+	"main.h"
+
+1592537918 c:\users\admin\desktop\ea proggra\ear-1entregable\ear1-proyecto32\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1592764321 source:c:\users\admin\desktop\ea proggra\ear-1entregable\ear1-proyecto32\funciones1.c
+	"funciones.h"
+
+1592764321 source:f:\universidad\programacion online\edas\eas progra\ea recu\ear-1entregable\ear1-proyecto32\funciones1.c
+	"funciones.h"
+
+1592537918 f:\universidad\programacion online\edas\eas progra\ea recu\ear-1entregable\ear1-proyecto32\funciones.h
+	<stdio.h>
+
+1592537918 source:f:\universidad\programacion online\edas\eas progra\ea recu\ear-1entregable\ear1-proyecto32\funciones2.c
+	"funciones.h"
+
+1592537918 source:f:\universidad\programacion online\edas\eas progra\ea recu\ear-1entregable\ear1-proyecto32\funciones3.c
+	"funciones.h"
+
+1592689389 source:f:\universidad\programacion online\edas\eas progra\ea recu\ear-1entregable\ear1-proyecto32\main.c
+	"main.h"
+
+1592537918 f:\universidad\programacion online\edas\eas progra\ea recu\ear-1entregable\ear1-proyecto32\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

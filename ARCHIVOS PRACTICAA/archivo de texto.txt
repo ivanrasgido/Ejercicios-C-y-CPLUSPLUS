@@ -1,0 +1,4 @@
+12345678		11122010		pancracio dominguez                                1000.50
+13435256		12012000		juan manuel alvarez                                 500.47
+43253421		01041990		silvio soldan                                       700.45
+43232113		07051995		benito juarez                                       350.34

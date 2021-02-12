@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587569282 source:c:\users\admin\desktop\programacion\punteros ejercitacion\funciones.c
+
+1587587377 source:c:\users\admin\desktop\programacion\punteros ejercitacion\main.c
+	<stdio.h>
+	<stdlib.h>
+

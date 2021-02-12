@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1594423016 source:c:\users\admin\desktop\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\cuadrado.cpp
+	"Cuadrado.h"
+	<exception>
+
+1594398747 c:\users\admin\desktop\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\cuadrado.h
+	"Figura.h"
+
+1594497483 source:c:\users\admin\desktop\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figura.cpp
+	"Figura.h"
+
+1594421821 c:\users\admin\desktop\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figura.h
+	<string>
+	"FiguraInvalidaException.h"
+
+1594422309 c:\users\admin\desktop\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figurainvalidaexception.h
+	<string>
+
+1594423016 source:c:\users\admin\desktop\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\rectangulo.cpp
+	"Rectangulo.h"
+
+1594396726 c:\users\admin\desktop\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\rectangulo.h
+	"Figura.h"
+
+1594497618 source:c:\users\admin\desktop\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\triangulo.cpp
+	"Triangulo.h"
+
+1594497636 c:\users\admin\desktop\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\triangulo.h
+	"Figura.h"
+
+1594397584 source:c:\users\admin\desktop\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\main.cpp
+	<iostream>
+	"Figura.h"
+	"Cuadrado.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+
+1594497618 source:c:\users\admin\desktop\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figurainvalidaexception.cpp
+	"Figura.h"
+
+1594423016 source:c:\users\admin\desktop\universidad\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\cuadrado.cpp
+	"Cuadrado.h"
+	<exception>
+
+1594398747 c:\users\admin\desktop\universidad\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\cuadrado.h
+	"Figura.h"
+
+1594421821 c:\users\admin\desktop\universidad\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figura.h
+	<string>
+	"FiguraInvalidaException.h"
+
+1594422309 c:\users\admin\desktop\universidad\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figurainvalidaexception.h
+	<string>
+
+1594497483 source:c:\users\admin\desktop\universidad\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figura.cpp
+	"Figura.h"
+
+1594497618 source:c:\users\admin\desktop\universidad\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figurainvalidaexception.cpp
+	"Figura.h"
+
+1594497698 source:c:\users\admin\desktop\universidad\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\main.cpp
+	<iostream>
+	"Figura.h"
+	"Cuadrado.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+
+1594396726 c:\users\admin\desktop\universidad\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\rectangulo.h
+	"Figura.h"
+
+1594497636 c:\users\admin\desktop\universidad\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\triangulo.h
+	"Figura.h"
+
+1594423016 source:c:\users\admin\desktop\universidad\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\rectangulo.cpp
+	"Rectangulo.h"
+
+1594497618 source:c:\users\admin\desktop\universidad\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\triangulo.cpp
+	"Triangulo.h"
+
+1594423016 source:f:\universidad\programacion online\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\cuadrado.cpp
+	"Cuadrado.h"
+	<exception>
+
+1594398747 f:\universidad\programacion online\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\cuadrado.h
+	"Figura.h"
+
+1594421821 f:\universidad\programacion online\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figura.h
+	<string>
+	"FiguraInvalidaException.h"
+
+1594422309 f:\universidad\programacion online\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figurainvalidaexception.h
+	<string>
+
+1594497483 source:f:\universidad\programacion online\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figura.cpp
+	"Figura.h"
+
+1594497618 source:f:\universidad\programacion online\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\figurainvalidaexception.cpp
+	"Figura.h"
+
+1594497698 source:f:\universidad\programacion online\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\main.cpp
+	<iostream>
+	"Figura.h"
+	"Cuadrado.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+
+1594396726 f:\universidad\programacion online\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\rectangulo.h
+	"Figura.h"
+
+1594497636 f:\universidad\programacion online\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\triangulo.h
+	"Figura.h"
+
+1594423016 source:f:\universidad\programacion online\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\rectangulo.cpp
+	"Rectangulo.h"
+
+1594497618 source:f:\universidad\programacion online\edas\ea3 programacion\ea3-entregable\ea3-poo_cpp_figura\triangulo.cpp
+	"Triangulo.h"
+

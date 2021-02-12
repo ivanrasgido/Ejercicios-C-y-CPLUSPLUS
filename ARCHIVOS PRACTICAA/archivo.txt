@@ -1,0 +1,4 @@
+12345678;11/12/2010;pancracio dominguez;1000.500
+13435256;12/1/2000;juan manuel alvarez;500.470
+43253421;1/4/1990;silvio soldan;700.450
+43232113;7/5/1995;benito juarez;350.340

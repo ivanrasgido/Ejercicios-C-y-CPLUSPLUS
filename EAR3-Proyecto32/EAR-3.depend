@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1594873029 source:c:\users\admin\desktop\reentrega de evaluacion de aprendizaje\ear3-entregable\ear3-proyecto32\funciones.c
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1594761498 c:\users\admin\desktop\reentrega de evaluacion de aprendizaje\ear3-entregable\ear3-proyecto32\funciones.h
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594867137 source:c:\users\admin\desktop\reentrega de evaluacion de aprendizaje\ear3-entregable\ear3-proyecto32\main.c
+	"main.h"
+
+1594761498 c:\users\admin\desktop\reentrega de evaluacion de aprendizaje\ear3-entregable\ear3-proyecto32\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1594873205 source:f:\universidad\programacion online\edas\reentrega de evaluacion de aprendizaje\ear3-entregable\ear3-proyecto32\funciones.c
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1594761498 f:\universidad\programacion online\edas\reentrega de evaluacion de aprendizaje\ear3-entregable\ear3-proyecto32\funciones.h
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594867137 source:f:\universidad\programacion online\edas\reentrega de evaluacion de aprendizaje\ear3-entregable\ear3-proyecto32\main.c
+	"main.h"
+
+1594761498 f:\universidad\programacion online\edas\reentrega de evaluacion de aprendizaje\ear3-entregable\ear3-proyecto32\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1593345301 source:c:\users\admin\desktop\evaluacion de aprendizaje 2 de programacion\ea2-entregable\ea2-proyecto32\funciones.c
+	<stdlib.h>
+	"funciones.h"
+
+1593035810 c:\users\admin\desktop\evaluacion de aprendizaje 2 de programacion\ea2-entregable\ea2-proyecto32\funciones.h
+	<stdio.h>
+
+1593279949 source:c:\users\admin\desktop\evaluacion de aprendizaje 2 de programacion\ea2-entregable\ea2-proyecto32\main.c
+	"main.h"
+
+1593035810 c:\users\admin\desktop\evaluacion de aprendizaje 2 de programacion\ea2-entregable\ea2-proyecto32\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1593279949 source:f:\universidad\programacion online\edas\evaluacion de aprendizaje 2 de programacion\ea2-entregable\ea2-proyecto32\main.c
+	"main.h"
+
+1593035810 f:\universidad\programacion online\edas\evaluacion de aprendizaje 2 de programacion\ea2-entregable\ea2-proyecto32\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1593035810 f:\universidad\programacion online\edas\evaluacion de aprendizaje 2 de programacion\ea2-entregable\ea2-proyecto32\funciones.h
+	<stdio.h>
+

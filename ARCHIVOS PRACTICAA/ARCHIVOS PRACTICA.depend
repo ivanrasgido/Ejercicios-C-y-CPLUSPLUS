@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1588015225 source:c:\users\admin\desktop\programacion\archivos practicaa\funciones.c
+	"ARCHIVOS.h"
+
+1588014605 source:c:\users\admin\desktop\programacion\archivos practicaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ARCHIVOS.h"
+
+1588012369 c:\users\admin\desktop\programacion\archivos practicaa\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

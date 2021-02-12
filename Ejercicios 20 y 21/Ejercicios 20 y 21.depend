@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586456822 source:c:\users\admin\desktop\programacion\ejercicios 20 y 21\funciones.c
+	<stdio.h>
+
+1586456872 source:c:\users\admin\desktop\programacion\ejercicios 20 y 21\main.c
+	<stdio.h>
+	<stdlib.h>
+

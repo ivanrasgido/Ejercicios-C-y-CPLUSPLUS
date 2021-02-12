@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1583849412 source:c:\users\admin\desktop\programacion\ejercicio nro 1 factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1583851345 source:c:\users\admin\desktop\programacion\ejercicio nro 1 factorial\funciones.c
+	<stdio.h>
+

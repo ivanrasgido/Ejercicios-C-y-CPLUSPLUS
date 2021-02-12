@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587737184 source:c:\users\admin\desktop\programacion\ejercicios de 22 al 28 (vectores con subindice)\funciones.c
+	<stdio.h>
+
+1587732234 source:c:\users\admin\desktop\programacion\ejercicios de 22 al 28 (vectores con subindice)\main.c
+	<stdio.h>
+	<stdlib.h>
+

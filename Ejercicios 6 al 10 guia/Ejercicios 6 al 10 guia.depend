@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1583962250 source:c:\users\admin\desktop\programacion\ejercicios 6 al 10 guia\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1583962286 source:c:\users\admin\desktop\programacion\ejercicios 6 al 10 guia\funciones.c
+	<stdio.h>
+
